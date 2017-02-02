@@ -40,7 +40,7 @@ def message_key(message):
     positive_greeting = ['happy', 'great', 'excited', 'good', 'nice', 'ok', 'amazing', 'best']
     bad_word = ['fuck', 'shit', 'bitch', 'hate', 'slut']
     negative_greeting = ['sad', 'tired', 'exhausted', 'sleepy', 'bad', 'angry', 'upset']
-    hello_greeting = ['welcome', 'meet', 'salut', 'hi', 'good morning', 'good evening', 'good night', 'greetings']
+    hello_greeting = ['welcome', 'meet', 'salut', 'hi', 'hello' 'good morning', 'good evening', 'good night', 'greetings']
     people_name = ['allie', 'Allie', 'nathalie', 'Nathalie', 'giddeon', 'Giddeon', 'olivia', 'Olivia', 'arie', 'Arie', 'david', 'David']
     questions = {'how old are you': 'it is one of the grand mysteries of life',
                       'how are you': 'you know, I have been better. Thanks for your concern',
